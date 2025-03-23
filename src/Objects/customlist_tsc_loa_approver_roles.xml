@@ -1,0 +1,44 @@
+<customlist scriptid="customlist_tsc_loa_approver_roles">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>[LOA] - Approver Roles</name>
+  <customvalues>
+    <customvalue scriptid="val_13147962_3496488_sb1_441">
+      <isinactive>F</isinactive>
+      <value>Financial Controller</value>
+    </customvalue>
+    <customvalue scriptid="val_13147963_3496488_sb1_656">
+      <isinactive>F</isinactive>
+      <value>VP Sales</value>
+    </customvalue>
+    <customvalue scriptid="val_13147964_3496488_sb1_939">
+      <isinactive>F</isinactive>
+      <value>BU President</value>
+    </customvalue>
+    <customvalue scriptid="val_13147965_3496488_sb1_625">
+      <isinactive>F</isinactive>
+      <value>Sales Manager</value>
+    </customvalue>
+    <customvalue scriptid="val_13147966_3496488_sb1_193">
+      <isinactive>F</isinactive>
+      <value>Sales Director</value>
+    </customvalue>
+    <customvalue scriptid="val_13147967_3496488_sb1_691">
+      <isinactive>F</isinactive>
+      <value>SMF CEO</value>
+    </customvalue>
+    <customvalue scriptid="val_13147968_3496488_sb1_313">
+      <isinactive>F</isinactive>
+      <value>Sandvik CEO</value>
+    </customvalue>
+    <customvalue scriptid="val_13148078_3496488_sb1_642">
+      <isinactive>F</isinactive>
+      <value>CFO</value>
+    </customvalue>
+    <customvalue scriptid="val_13199514_3496488_sb1_885">
+      <isinactive>F</isinactive>
+      <value>General Accounting</value>
+    </customvalue>
+  </customvalues>
+</customlist>

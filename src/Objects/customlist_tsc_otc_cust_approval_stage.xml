@@ -1,0 +1,20 @@
+<customlist scriptid="customlist_tsc_otc_cust_approval_stage">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>OTC Customer Approval Stage</name>
+  <customvalues>
+    <customvalue scriptid="val_13199214_3496488_sb1_244">
+      <isinactive>F</isinactive>
+      <value>Credit Limit</value>
+    </customvalue>
+    <customvalue scriptid="val_13199215_3496488_sb1_461">
+      <isinactive>F</isinactive>
+      <value>Term</value>
+    </customvalue>
+    <customvalue scriptid="val_13199216_3496488_sb1_570">
+      <isinactive>F</isinactive>
+      <value>General</value>
+    </customvalue>
+  </customvalues>
+</customlist>

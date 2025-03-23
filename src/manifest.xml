@@ -1,0 +1,29 @@
+<manifest projecttype="ACCOUNTCUSTOMIZATION">
+  <projectname>OTC_CUSTOMER_APPROVAL</projectname>
+  <frameworkversion>1.0</frameworkversion>
+  <dependencies>
+    <features>
+      <feature required="false">SUITESIGNON</feature>
+      <feature required="false">MULTILANGUAGE</feature>
+      <feature required="true">SERVERSIDESCRIPTING</feature>
+      <feature required="false">CRM</feature>
+      <feature required="false">JOBS</feature>
+      <feature required="false">CUSTOMSEGMENTS</feature>
+      <feature required="false">EXTREMELIST</feature>
+      <feature required="false">ADVANCEDJOBS</feature>
+      <feature required="false">MAILMERGE</feature>
+      <feature required="false">ACCOUNTING</feature>
+      <feature required="true">CUSTOMRECORDS</feature>
+      <feature required="false">CREATESUITEBUNDLES</feature>
+    </features>
+    <objects>
+      <object>customrecord_brand.val_4346044_3496488_sb1_835</object>
+      <object>customrecord_brand.val_4346043_3496488_sb1_584</object>
+      <object>customrecord_brand.val_4346041_3496488_sb1_241</object>
+      <object>customrecord_brand</object>
+      <object>scriptid=customlist_tsc_loa_approver_roles.val_13147964_3496488_sb1_939|scriptid=customlist_tsc_loa_approver_roles.val_13148078_3496488_sb1_642</object>
+      <object>customlist_tsc_loa_approver_roles</object>
+      <object>customlist_tsc_otc_approval_status</object>
+    </objects>
+  </dependencies>
+</manifest>
